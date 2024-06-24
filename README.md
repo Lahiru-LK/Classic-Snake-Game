@@ -2,6 +2,9 @@
 
 A classic Snake game implemented in C, built using CMake for easy setup and compilation. This project demonstrates the use of basic game development principles, algorithms, and data structures in C.
 
+https://github.com/Lahiru-LK/Classic-Snake-Game/assets/104630433/98ddd4ca-4fac-4ccb-99b3-bdd96d77daa4
+
+
 ## ✨ Features ✨
 
 - 🕹️ Classic snake game mechanics
